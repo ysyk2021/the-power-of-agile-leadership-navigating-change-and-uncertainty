@@ -1,4 +1,4 @@
-Chapter 9: Integrating Agile Leadership with Organizational Culture: Fostering a Culture of Learning and Continuous Improvement
+Fostering a Culture of Learning and Continuous Improvement
 ===============================================================================================================================
 
 Agile leadership is not just a set of practices, but also a mindset and culture that values learning and continuous improvement. In order to fully integrate agile leadership into an organization, it is important to foster a culture of learning and continuous improvement. Here are some strategies for doing so:

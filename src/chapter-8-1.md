@@ -1,4 +1,4 @@
-Chapter 8: Case Studies of Successful Agile Leadership: Real-life Examples of Companies and Leaders who have Successfully Navigated Change and Uncertainty through Agile Leadership
+Real-life Examples of Companies and Leaders who have Successfully Navigated Change and Uncertainty through Agile Leadership
 ===================================================================================================================================================================================
 
 Agile leadership can be a powerful approach for organizations looking to navigate change and uncertainty. In this chapter, we will explore real-life examples of companies and leaders who have successfully implemented agile approaches to achieve success.

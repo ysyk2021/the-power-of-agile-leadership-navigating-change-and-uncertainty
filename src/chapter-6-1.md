@@ -1,4 +1,4 @@
-Chapter 6: Measuring Success in Agile Leadership: Key Performance Indicators (KPIs) for Measuring Success
+Key Performance Indicators (KPIs) for Measuring Success
 =========================================================================================================
 
 Agile leadership is all about delivering value and driving results in a fast-paced, ever-changing business environment. In order to measure success in an agile approach, it is important to identify key performance indicators (KPIs) that align with the organization's goals and priorities. In this chapter, we will explore some common KPIs for measuring success in agile leadership.

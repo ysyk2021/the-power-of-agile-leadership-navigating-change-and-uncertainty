@@ -1,4 +1,4 @@
-Chapter 5: Building an Agile Mindset: Applying Agile Practices and Methodologies
+Applying Agile Practices and Methodologies
 ================================================================================
 
 Building an agile mindset is crucial for leaders looking to navigate change and uncertainty. In this chapter, we will explore how to apply agile practices and methodologies to build an agile mindset.

@@ -1,4 +1,4 @@
-Chapter 6: Measuring Success in Agile Leadership: Qualitative and Quantitative Methods for Evaluation
+Qualitative and Quantitative Methods for Evaluation
 =====================================================================================================
 
 Agile leadership is all about delivering value and driving results in a fast-paced, ever-changing business environment. In order to measure success in an agile approach, it is important to identify both qualitative and quantitative methods for evaluation. In this chapter, we will explore some common qualitative and quantitative methods for measuring success in agile leadership.

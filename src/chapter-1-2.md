@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Overview of the Book
+Overview of the Book
 =============================================
 
 In today's rapidly changing business environment, agile leadership has emerged as a critical approach for navigating change and uncertainty. The Power of Agile Leadership: Navigating Change and Uncertainty is a book that explores the principles and practices of agile leadership.

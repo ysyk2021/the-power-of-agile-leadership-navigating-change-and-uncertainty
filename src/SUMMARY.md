@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Importance of Agile Leadership](chapter-1-1.md)
   - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Agile Leadership](chapter-2.md)
@@ -36,8 +35,5 @@
   - [Understanding Ethical Guidelines and Standards](chapter-10-1.md)
   - [Balancing Agility with Ethics and Values](chapter-10-2.md)
   - [Addressing Potential Risks and Consequences of Agile Leadership](chapter-10-3.md)
-- [Chapter 11: Conclusion](chapter-11.md)
-  - [Recap of Key Points](chapter-11-1.md)
-  - [Final Thoughts on the Power of Agile Leadership for Navigating Change and Uncertainty](chapter-11-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

@@ -1,4 +1,4 @@
-Chapter 2: Understanding Agile Leadership: Benefits of Agile Leadership
+Benefits of Agile Leadership
 =======================================================================
 
 Agile leadership is a modern approach to leadership that emphasizes flexibility, collaboration, and adaptability. In this chapter, we will explore the benefits of adopting an agile leadership approach.

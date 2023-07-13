@@ -1,4 +1,4 @@
-Chapter 3: Principles of Agile Leadership: Fostering a Culture of Innovation and Adaptability
+Fostering a Culture of Innovation and Adaptability
 =============================================================================================
 
 Agile leadership is a mindset that emphasizes flexibility, adaptability, and innovation. In this chapter, we will explore the principles that underpin agile leadership and how they can be applied to create a culture of innovation and adaptability.

@@ -1,4 +1,4 @@
-Chapter 9: Integrating Agile Leadership with Organizational Culture: Aligning Agile Leadership with Business Goals
+Aligning Agile Leadership with Business Goals
 ==================================================================================================================
 
 Integrating agile leadership with an organization's culture can be a critical success factor in achieving agility and driving results. In this chapter, we will explore the importance of aligning agile leadership with business goals.

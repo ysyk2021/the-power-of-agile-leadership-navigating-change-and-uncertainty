@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Importance of Agile Leadership
+Importance of Agile Leadership
 =======================================================
 
 In today's fast-paced and ever-changing business environment, agile leadership has become increasingly important. Traditional leadership approaches that rely on rigid plans and structures are no longer effective in a world where change is constant. Agile leadership, on the other hand, offers a more flexible and adaptable approach to leading teams through change and uncertainty.

@@ -1,4 +1,4 @@
-Chapter 2: Understanding Agile Leadership: Definition of Agile Leadership
+Definition of Agile Leadership
 =========================================================================
 
 Agile leadership is a way of leading that emphasizes flexibility, adaptability, and collaboration. It is a response to the fast-paced, ever-changing nature of modern business, where traditional hierarchical structures and rigid processes can be barriers to success.

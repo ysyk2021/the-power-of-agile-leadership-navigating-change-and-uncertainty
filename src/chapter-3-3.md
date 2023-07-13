@@ -1,4 +1,4 @@
-Chapter 3: Principles of Agile Leadership: Empowering and Supporting Teams
+Empowering and Supporting Teams
 ==========================================================================
 
 Agile leadership is a way of leading that emphasizes flexibility, adaptability, and collaboration. In order to achieve success in the face of change and uncertainty, agile leaders must prioritize empowering and supporting their teams. In this chapter, we will explore the principles of agile leadership that enable leaders to create high-performing teams.

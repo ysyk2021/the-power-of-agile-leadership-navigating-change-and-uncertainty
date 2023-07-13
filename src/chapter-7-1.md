@@ -1,4 +1,4 @@
-Chapter 7: Overcoming Obstacles to Agile Leadership: Common Obstacles to Agile Leadership
+Common Obstacles to Agile Leadership
 =========================================================================================
 
 Implementing agile leadership can come with its own set of challenges. In this chapter, we will explore common obstacles to agile leadership.

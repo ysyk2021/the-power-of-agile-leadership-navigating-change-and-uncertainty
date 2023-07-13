@@ -1,4 +1,4 @@
-Chapter 2: Understanding Agile Leadership: Common Myths about Agile Leadership
+Common Myths about Agile Leadership
 ==============================================================================
 
 Agile leadership is a modern approach to leadership that emphasizes flexibility, collaboration, and adaptability. However, there are also many common myths and misconceptions surrounding agile leadership. In this chapter, we will debunk some of these myths.

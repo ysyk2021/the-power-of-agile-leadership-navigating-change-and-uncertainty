@@ -1,4 +1,4 @@
-Chapter 7: Overcoming Obstacles to Agile Leadership: Strategies for Overcoming Challenges
+Strategies for Overcoming Challenges
 =========================================================================================
 
 Implementing agile leadership can come with its own set of challenges. In this chapter, we will explore strategies for overcoming common obstacles to agile leadership.

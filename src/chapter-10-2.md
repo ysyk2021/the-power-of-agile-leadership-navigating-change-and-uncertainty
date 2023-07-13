@@ -1,4 +1,4 @@
-Chapter 10: Ethical Considerations in Agile Leadership: Balancing Agility with Ethics and Values
+Balancing Agility with Ethics and Values
 ================================================================================================
 
 Agile leadership emphasizes flexibility, collaboration, and adaptability. However, as organizations strive to become more agile, it's important not to lose sight of ethical considerations. In this chapter, we will explore the importance of balancing agility with ethics and values.

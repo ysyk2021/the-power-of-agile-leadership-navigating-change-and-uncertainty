@@ -1,4 +1,4 @@
-Chapter 9: Integrating Agile Leadership with Organizational Culture: Developing Agile Mindset as a Leader
+Developing Agile Mindset as a Leader
 =========================================================================================================
 
 Integrating agile leadership with an organization's culture can be a critical success factor in achieving agility and driving results. In this chapter, we will explore the importance of developing an agile mindset as a leader, and how to integrate agile principles into an organization's culture.

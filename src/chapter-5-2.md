@@ -1,4 +1,4 @@
-Chapter 5: Building an Agile Mindset: Encouraging Continuous Learning and Improvement
+Encouraging Continuous Learning and Improvement
 =====================================================================================
 
 Building an agile mindset requires a commitment to continuous learning and improvement. In this chapter, we will explore the importance of continuous learning and improvement in building an agile mindset.

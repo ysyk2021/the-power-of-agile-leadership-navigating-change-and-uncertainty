@@ -1,4 +1,4 @@
-Chapter 10: Ethical Considerations in Agile Leadership: Addressing Potential Risks and Consequences of Agile Leadership
+Addressing Potential Risks and Consequences of Agile Leadership
 =======================================================================================================================
 
 Agile leadership has become increasingly popular as organizations strive to become more adaptable and responsive in a fast-paced, ever-changing business environment. However, as with any approach, there are potential risks and consequences associated with agile leadership. In this chapter, we will explore some of these risks and consequences and how agile leaders can address them.

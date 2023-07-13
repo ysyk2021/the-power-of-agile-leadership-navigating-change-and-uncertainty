@@ -1,4 +1,4 @@
-Chapter 4: Agile Leadership in Practice: Facilitating Collaboration and Communication
+Facilitating Collaboration and Communication
 =====================================================================================
 
 Collaboration and communication are essential components of agile leadership. By facilitating collaboration and communication, agile leaders can create a more cohesive and effective team. Here are some ways that agile leaders can facilitate collaboration and communication:

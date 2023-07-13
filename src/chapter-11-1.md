@@ -1,4 +1,4 @@
-Chapter 11: Conclusion: Recap of Key Points
+Recap of Key Points
 ===========================================
 
 Agile leadership offers many benefits for organizations that want to succeed in a fast-paced, ever-changing business environment. In this book, we explored the key principles of agile leadership and how they can be applied to drive results and deliver value. In this final chapter, we will recap some of the key points from the book.

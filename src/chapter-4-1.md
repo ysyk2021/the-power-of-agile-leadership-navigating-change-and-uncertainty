@@ -1,4 +1,4 @@
-Chapter 4: Agile Leadership in Practice: Leading with Vision and Purpose
+Leading with Vision and Purpose
 ========================================================================
 
 Agile leadership is not just a theoretical concept but a practical approach to leading teams through change and uncertainty. In this chapter, we will explore how agile leaders can effectively lead with vision and purpose.

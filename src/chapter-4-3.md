@@ -1,4 +1,4 @@
-Chapter 4: Agile Leadership in Practice: Managing Risks and Opportunities
+Managing Risks and Opportunities
 =========================================================================
 
 Agile leadership is all about adaptability and flexibility, which makes it ideal for managing risks and opportunities. Here are some ways that agile leadership can be applied in practice to manage risks and opportunities:

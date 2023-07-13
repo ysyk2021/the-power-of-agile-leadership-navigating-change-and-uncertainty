@@ -1,4 +1,4 @@
-Chapter 5: Building an Agile Mindset: Developing Emotional Intelligence and Resilience
+Developing Emotional Intelligence and Resilience
 ======================================================================================
 
 Emotional intelligence and resilience are critical components of an agile mindset. Agile leaders must be able to manage their emotions, communicate effectively with team members, and adapt to changing circumstances. Here are some strategies for developing emotional intelligence and resilience:
