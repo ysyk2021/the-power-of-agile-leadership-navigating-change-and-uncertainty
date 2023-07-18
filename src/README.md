@@ -6,5 +6,4 @@ Drawing on research from psychology, neuroscience, and other fields, "The Power 
 
 Whether you are a CEO, manager, or team leader, "The Power of Agile Leadership" has something to offer. With its practical insights, real-world examples, and actionable advice, this book will help you unlock your potential and achieve your goals. So if you're ready to take the first step on the path to agile leadership and success, we invite you to join us on this journey of growth, learning, and self-discovery.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
