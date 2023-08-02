@@ -1,4 +1,4 @@
-Chapter: Strategies for Overcoming Challenges
+Strategies for Overcoming Challenges
 =============================================
 
 In this chapter, we will explore strategies that agile leaders can employ to overcome challenges they may face while navigating change and uncertainty. By implementing these strategies, leaders can effectively address obstacles and drive successful agile transformations within their teams and organizations.

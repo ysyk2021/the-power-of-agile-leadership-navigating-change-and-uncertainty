@@ -1,4 +1,4 @@
-Chapter: Benefits of Agile Leadership
+Benefits of Agile Leadership
 =====================================
 
 In this chapter, we will explore the numerous benefits that agile leadership brings to individuals, teams, and organizations. By embracing agile principles and practices, leaders can navigate change and uncertainty effectively, drive innovation, and foster a culture of collaboration and continuous improvement.

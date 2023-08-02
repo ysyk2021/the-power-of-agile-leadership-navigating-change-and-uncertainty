@@ -1,4 +1,4 @@
-Chapter: Managing Risks and Opportunities
+Managing Risks and Opportunities
 =========================================
 
 In this chapter, we will explore the importance of effectively managing risks and opportunities in agile leadership. The ability to navigate through uncertain and changing circumstances is crucial for organizational success. By proactively identifying and addressing risks while capitalizing on emerging opportunities, agile leaders can steer their teams towards sustainable growth. This chapter will discuss strategies for risk management, methods for identifying opportunities, and the benefits of a proactive approach.

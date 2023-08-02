@@ -1,4 +1,4 @@
-Chapter 6: Real-Life Examples of Agile Leadership in Navigating Change and Uncertainty
+Real-Life Examples of Agile Leadership in Navigating Change and Uncertainty
 ======================================================================================
 
 In this chapter, we will explore real-life examples of companies and leaders who have successfully navigated change and uncertainty through agile leadership. These examples demonstrate the power of an agile mindset in driving organizational agility, resilience, and innovation. We will examine how these companies and leaders embraced change, empowered their teams, fostered collaboration, and leveraged agile practices to adapt and thrive in uncertain times.

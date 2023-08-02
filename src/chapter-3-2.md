@@ -1,4 +1,4 @@
-Chapter: Fostering a Culture of Innovation and Adaptability
+Fostering a Culture of Innovation and Adaptability
 ===========================================================
 
 In this chapter, we will explore the significance of fostering a culture of innovation and adaptability in agile leadership. We will delve into strategies and practices that agile leaders can employ to nurture a work environment where innovation thrives, and teams are adaptable in the face of change and uncertainty. By understanding the importance of a culture of innovation and adaptability, agile leaders can drive continuous improvement and stay ahead in dynamic markets.

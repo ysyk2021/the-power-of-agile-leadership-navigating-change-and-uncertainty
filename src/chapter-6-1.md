@@ -1,4 +1,4 @@
-Chapter: Key Performance Indicators (KPIs) for Measuring Success
+Key Performance Indicators (KPIs) for Measuring Success
 ================================================================
 
 In this chapter, we will explore the importance of Key Performance Indicators (KPIs) in measuring the success of agile leadership. KPIs provide valuable insights into the effectiveness of leadership strategies, the progress towards organizational goals, and the overall health of the business. This chapter will discuss the significance of KPIs, provide guidance on selecting relevant metrics, and highlight the benefits of using KPIs to drive continuous improvement.

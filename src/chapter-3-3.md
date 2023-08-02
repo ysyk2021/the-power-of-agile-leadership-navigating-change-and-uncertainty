@@ -1,4 +1,4 @@
-Chapter: Empowering and Supporting Teams
+Empowering and Supporting Teams
 ========================================
 
 In this chapter, we will explore the crucial role of empowering and supporting teams in agile leadership. We will delve into strategies and practices that agile leaders can employ to create an environment where teams feel empowered, motivated, and supported. By understanding the significance of empowering and supporting teams, agile leaders can maximize their team's potential and drive organizational success.

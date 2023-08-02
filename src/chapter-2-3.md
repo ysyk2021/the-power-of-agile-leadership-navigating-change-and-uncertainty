@@ -1,4 +1,4 @@
-Chapter: Common Myths About Agile Leadership
+Common Myths About Agile Leadership
 ============================================
 
 In this chapter, we will explore and debunk some common myths and misconceptions about agile leadership. By dispelling these myths, we aim to provide a clear understanding of the true nature and benefits of agile leadership.

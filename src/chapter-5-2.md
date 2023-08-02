@@ -1,4 +1,4 @@
-Chapter: Encouraging Continuous Learning and Improvement
+Encouraging Continuous Learning and Improvement
 ========================================================
 
 In this chapter, we will explore the importance of continuous learning and improvement in agile leadership. We will discuss how leaders can create a learning culture, foster innovation, and drive constant improvement within their teams and organizations.

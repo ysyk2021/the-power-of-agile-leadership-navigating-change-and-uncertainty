@@ -1,4 +1,4 @@
-Chapter: Common Obstacles to Agile Leadership
+Common Obstacles to Agile Leadership
 =============================================
 
 In this chapter, we will discuss the common obstacles that leaders may encounter when adopting agile leadership practices. By understanding these challenges, leaders can proactively address them and create a more conducive environment for agile transformation.
