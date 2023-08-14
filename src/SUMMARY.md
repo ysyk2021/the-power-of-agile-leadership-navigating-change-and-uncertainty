@@ -25,7 +25,6 @@
   - [Common Obstacles to Agile Leadership](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Agile Leadership](chapter-8.md)
-  - [Real-life Examples of Companies and Leaders who have Successfully Navigated Change and Uncertainty through Agile Leadership](chapter-8-1.md)
 - [Chapter 9: Integrating Agile Leadership with Organizational Culture](chapter-9.md)
   - [Fostering a Culture of Learning and Continuous Improvement](chapter-9-1.md)
   - [Aligning Agile Leadership with Business Goals](chapter-9-2.md)
