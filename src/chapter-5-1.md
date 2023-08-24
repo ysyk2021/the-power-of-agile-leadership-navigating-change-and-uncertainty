@@ -1,5 +1,3 @@
-Developing Emotional Intelligence and Resilience
-=========================================================
 
 In this chapter, we will explore the importance of emotional intelligence and resilience in agile leadership, especially when navigating change and uncertainty. We will discuss strategies for developing these essential qualities that enable leaders to effectively manage their own emotions, build strong relationships, and thrive in challenging environments.
 

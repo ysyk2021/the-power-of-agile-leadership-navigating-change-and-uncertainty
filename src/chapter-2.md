@@ -1,5 +1,3 @@
-Chapter 2: Understanding Agile Leadership
-=========================================
 
 Agile leadership is a modern approach to leadership that emphasizes flexibility, collaboration, and adaptability. In this chapter, we will define agile leadership, explore its benefits, and debunk some of the common myths surrounding it.
 

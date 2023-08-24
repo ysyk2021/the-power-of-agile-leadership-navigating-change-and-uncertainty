@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Agile Leadership
-===================================================
 
 Agile leadership can offer many benefits for organizations, including increased flexibility, adaptability, and innovation. However, implementing an agile approach is not always easy. In this chapter, we will explore some common obstacles to agile leadership and strategies for overcoming these challenges.
 

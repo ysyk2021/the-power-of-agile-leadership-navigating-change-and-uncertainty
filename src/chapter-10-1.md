@@ -1,4 +1,3 @@
-# Understanding Ethical Guidelines and Standards
 
 In this chapter, we will explore the importance of ethical guidelines and standards in agile leadership. As an agile leader, it is crucial to establish and uphold ethical principles to navigate change and uncertainty effectively. This chapter aims to provide you with a comprehensive understanding of ethical considerations and how they contribute to your success as an agile leader.
 

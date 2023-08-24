@@ -1,5 +1,3 @@
-Chapter 4: Agile Leadership in Practice
-=======================================
 
 Agile leadership is a way of leading that emphasizes flexibility, adaptability, and collaboration. In this chapter, we will explore how agile leadership can be put into practice to achieve success in the face of change and uncertainty.
 

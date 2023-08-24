@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Agile Leadership
-================================================
 
 Agile leadership is all about delivering value and driving results in a fast-paced, ever-changing business environment. But how do you measure success in an agile approach? In this chapter, we will explore key performance indicators (KPIs) for measuring success and the qualitative and quantitative methods for evaluation.
 

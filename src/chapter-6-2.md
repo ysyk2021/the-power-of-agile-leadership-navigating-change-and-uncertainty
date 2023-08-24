@@ -1,5 +1,3 @@
-Qualitative and Quantitative Methods for Evaluation
-============================================================
 
 In this chapter, we will explore the importance of employing both qualitative and quantitative methods for evaluation in agile leadership. Navigating change and uncertainty requires leaders to make informed decisions based on reliable data. By utilizing a combination of qualitative and quantitative evaluation methods, leaders can gain a comprehensive understanding of their organization's performance, identify areas for improvement, and make data-driven decisions. This chapter will discuss the benefits of using qualitative and quantitative methods and provide guidance on how to effectively integrate them into the evaluation process.
 

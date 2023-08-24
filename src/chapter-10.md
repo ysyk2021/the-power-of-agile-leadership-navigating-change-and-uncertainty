@@ -1,5 +1,3 @@
-Chapter 10: Ethical Considerations in Agile Leadership
-======================================================
 
 Agile leadership can offer many benefits for organizations looking to navigate change and uncertainty. However, it is important to consider ethical considerations when implementing agile approaches. In this chapter, we will explore the importance of understanding ethical guidelines and standards, balancing agility with ethics and values, and addressing potential risks and consequences of agile leadership.
 

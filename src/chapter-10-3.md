@@ -1,4 +1,3 @@
-# Addressing Potential Risks and Consequences of Agile Leadership
 
 As with any approach or methodology, agile leadership is not without its potential risks and consequences. While agile practices offer numerous benefits in navigating change and uncertainty, leaders must also be aware of and address potential challenges. This chapter highlights some common risks associated with agile leadership and provides strategies for mitigating their consequences.
 

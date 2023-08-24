@@ -1,4 +1,3 @@
-# Balancing Agility with Ethics and Values
 
 In today's fast-paced and ever-changing business landscape, agility has become a crucial attribute for successful leaders. Agile leadership empowers teams to respond quickly and effectively to change and uncertainty. However, while the focus on agility is essential, it is equally important to balance it with ethics and values.
 

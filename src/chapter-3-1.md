@@ -1,5 +1,3 @@
-Embracing Change and Uncertainty
-================================
 
 Change and uncertainty are inevitable aspects of life. In today's fast-paced world, organizations and leaders must learn to embrace change rather than fear or resist it. Agile leadership is a valuable mindset and set of strategies that can help navigate through these challenges effectively.
 

@@ -1,5 +1,3 @@
-Leading with Vision and Purpose
-========================================
 
 In this chapter, we will explore the significance of leading with vision and purpose in agile leadership. Navigating change and uncertainty requires leaders to provide a clear direction and inspire their teams to achieve common goals. By leading with vision and purpose, leaders can create a sense of meaning, alignment, and motivation within their organizations. This chapter will discuss the importance of vision and purpose, provide guidance on developing and communicating them effectively, and highlight the impact they have on driving organizational success.
 

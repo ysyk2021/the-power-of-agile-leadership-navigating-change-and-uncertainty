@@ -1,5 +1,3 @@
-Chapter 5: Building an Agile Mindset
-====================================
 
 Agile leadership requires a different mindset than traditional leadership styles. Here are some strategies for building an agile mindset:
 

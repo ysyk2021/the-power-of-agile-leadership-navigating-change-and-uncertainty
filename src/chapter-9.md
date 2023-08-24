@@ -1,5 +1,3 @@
-Chapter 9: Integrating Agile Leadership with Organizational Culture
-===================================================================
 
 To fully integrate agile leadership into an organization, it is important to align it with the organization's culture and values. Here are some strategies for integrating agile leadership with organizational culture:
 
